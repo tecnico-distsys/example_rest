@@ -1,30 +1,10 @@
-# ... example
+# REST example
 
-This is an example of ...
+This is an example of a REST service.
+It is composed by the server module:
+- [server](server/) - program that starts an HTTP server and awaits for requests to process
 
-
-## Maven instructions
-
-To print the project dependencies:
-
-```
-mvn dependency:tree
-```
-
-To compile the source code:
-
-```
-mvn compile
-```
-
-## To configure the Maven project in Eclipse
-
-'File', 'Import...', 'Maven'-'Existing Maven Projects'
-
-'Select root directory' and 'Browse' to the project base folder.
-
-Check that the desired POM is selected and 'Finish'.
-
+See the README for each module.
 
 ----
 
