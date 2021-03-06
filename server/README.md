@@ -30,13 +30,13 @@ When running, the REST service awaits connections from clients.
 You can check if the service is running using your web browser.
 
 To call the service, retrieve (GET) the following URL:
-[http://localhost:8080/myapp/myresource](http://localhost:8080/myapp/myresource)
+<http://localhost:8080/myapp/myresource>
 
 To see the generated WADL file, go to:
-[http://localhost:8080/myapp/application.wadl](http://localhost:8080/myapp/application.wadl)
+<http://localhost:8080/myapp/application.wadl>
 
 For a more detailed version, add a detail parameter:
-[http://localhost:8080/myapp/application.wadl?detail=true](http://localhost:8080/myapp/application.wadl?detail=true)
+<http://localhost:8080/myapp/application.wadl?detail=true>
 
 
 ## To configure the Maven project in Eclipse:
